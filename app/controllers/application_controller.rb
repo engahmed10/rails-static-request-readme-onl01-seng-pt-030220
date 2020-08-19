@@ -5,5 +5,6 @@ class ApplicationController < ActionController::Base
   
 get 'about',to:
 'static#about'
+end
 
 end
